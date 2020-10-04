@@ -1,0 +1,3 @@
+﻿  Phase10Dice.cpp
+X:\Projects\Phase10Dice\Phase10Dice\Phase10Dice\Phase10Dice.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Phase10Dice.vcxproj -> X:\Projects\Phase10Dice\Phase10Dice\Debug\Phase10Dice.exe
